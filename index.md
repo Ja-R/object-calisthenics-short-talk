@@ -7,8 +7,10 @@
 - _**The Pragmatic Programmer: From Journeyman to Master**_ d’Andy Hunt et Dave Thomas (1999)
 
 ### Conférences
-- Sur la complexité → _**Dette technique et entropie du logiciel**_ d'Arnaud Lemaire : [https://www.youtube.com/watch?v=VKe9EE4MUxk&t=967s](https://www.youtube.com/watch?v=VKe9EE4MUxk&t=967s)
-- Sur la séparation des responsabilités → _**Adoptez la clean archigonale**_ de Christophe Breheret-Girardin : [https://www.youtube.com/watch?v=GG9WyeerqFA](https://www.youtube.com/watch?v=GG9WyeerqFA)
+- Sur la complexité → _**Dette technique et entropie du logiciel**_ d'Arnaud Lemaire
+  - [https://www.youtube.com/watch?v=VKe9EE4MUxk&t=967s](https://www.youtube.com/watch?v=VKe9EE4MUxk&t=967s)
+- Sur la séparation des responsabilités → _**Adoptez la clean archigonale**_ de Christophe Breheret-Girardin
+  - [https://www.youtube.com/watch?v=GG9WyeerqFA](https://www.youtube.com/watch?v=GG9WyeerqFA)
 
 ### Instructions IA
 
