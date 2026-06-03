@@ -1,7 +1,3 @@
----
-layout: null
----
-
 # Object Calisthenics : simplifier le code pour retrouver le métier (short talk)
 
 ## Ressources
