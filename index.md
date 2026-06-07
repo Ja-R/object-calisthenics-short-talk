@@ -30,3 +30,10 @@
 | **7. Don’t use any classes with more than two instance variables.** | SRP, Open-Close Principle, Composition Over Inheritance, Polymorphism, Rule 3 |
 | **8. Use first-class collection.**                                  | Rule 3                                                                        |
 | **9. Don’t use any getters/setters/properties.**                    | Tell Don’t ask, Law of Demeter, SRP, Rich model, DRY                          |
+
+## Feedback & contact
+
+- **OpenFeedback :** [Faire un retour](https://openfeedback.io/X6Zd1NPDkMkDZHl003Yu/0/cmmci0z02026f01nsfi7ql7dm)
+- **LinkedIn :** [Jacqueline Rwanyindo](https://www.linkedin.com/in/jacqueline-rwanyindo/)
+
+
