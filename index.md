@@ -17,14 +17,14 @@
 - Exemple d'utilisation pour guider un assistant IA → Awesome copilot instructions : [https://github.com/github/awesome-copilot/blob/main/instructions/object-calisthenics.instructions.md](https://github.com/github/awesome-copilot/blob/main/instructions/object-calisthenics.instructions.md)
     - À adapter au contexte du projet et aux objectifs recherchés
 
-## Les règles et autres concepts complémentaires
+## Les règles et autres concepts
 
 | Rules                                                               | Concepts sous-jacents                                                         |
 |:--------------------------------------------------------------------|:------------------------------------------------------------------------------|
-| **1. Use only one level of indentation per method.**                | SRP, Extract ‘Til You Drop                                                    |
+| **1. Use only one level of indentation per method.**                | SRP, Extract ‘Til You Drop, Rule 6                                            |
 | **2. Don’t use the else keyword.**                                  | SRP, guard clauses, Polymorphism, KISS                                        |
-| **3. Wrap all primitives and strings.**                             | Rich model, SRP, DRY, Rule 7, Rule 9                                          |
-| **4. Use only one dot per line.**                                   | Law of Demeter, Tell Don’t ask, SRP, Rule 9                                   |
+| **3. Wrap all primitives and strings.**                             | Rich model, SRP, DRY, Meaningful naming, Rule 7, Rule 9                       |
+| **4. Use only one dot per line.**                                   | Law of Demeter, Tell Don’t ask, SRP, DRY, Rule 9                              |
 | **5. Don’t abbreviate.**                                            | Meaningful naming, SRP, Ubiquitous Language                                   |
 | **6. Keep all entities small.**                                     | SRP, Extract ‘Til You Drop, Meaningful naming                                 |
 | **7. Don’t use any classes with more than two instance variables.** | SRP, Open-Close Principle, Composition Over Inheritance, Polymorphism, Rule 3 |
