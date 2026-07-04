@@ -1,4 +1,4 @@
-# Object Calisthenics : simplifier le code pour retrouver le métier (short talk)
+# Object Calisthenics : simplifier le code pour retrouver le métier
 
 ## Ressources
 
@@ -7,10 +7,8 @@
 - _**The Pragmatic Programmer: From Journeyman to Master**_ d’Andy Hunt et Dave Thomas (1999)
 
 ### Conférences
-- Sur la complexité → _**Dette technique et entropie du logiciel**_ d'Arnaud Lemaire
-  - [https://www.youtube.com/watch?v=VKe9EE4MUxk&t=967s](https://www.youtube.com/watch?v=VKe9EE4MUxk&t=967s)
-- Sur la séparation des responsabilités → _**Adoptez la clean archigonale**_ de Christophe Breheret-Girardin
-  - [https://www.youtube.com/watch?v=GG9WyeerqFA](https://www.youtube.com/watch?v=GG9WyeerqFA)
+- Sur la complexité → _**[Dette technique et entropie du logiciel](https://www.youtube.com/watch?v=VKe9EE4MUxk&t=967s)**_ d'Arnaud Lemaire
+- Sur la séparation des responsabilités → _**[Adoptez la clean archigonale](https://www.youtube.com/watch?v=GG9WyeerqFA)**_ de Christophe Breheret-Girardin
 
 ### Instructions IA
 
@@ -22,7 +20,7 @@
 | Rules                                                               | Concepts sous-jacents                                                         |
 |:--------------------------------------------------------------------|:------------------------------------------------------------------------------|
 | **1. Use only one level of indentation per method.**                | SRP, Extract ‘Til You Drop, Rule 6                                            |
-| **2. Don’t use the else keyword.**                                  | SRP, guard clauses, Polymorphism, KISS                                        |
+| **2. Don’t use the else keyword.**                                  | SRP, Guard Clauses, Polymorphism, KISS                                        |
 | **3. Wrap all primitives and strings.**                             | Rich model, SRP, DRY, Meaningful naming, Rule 7, Rule 9                       |
 | **4. Use only one dot per line.**                                   | Law of Demeter, Tell Don’t ask, SRP, DRY, Rule 9                              |
 | **5. Don’t abbreviate.**                                            | Meaningful naming, SRP, Ubiquitous Language                                   |
@@ -33,7 +31,7 @@
 
 ## Feedback & contact
 
-- **OpenFeedback :** [Faire un retour](https://openfeedback.io/X6Zd1NPDkMkDZHl003Yu/0/cmmci0z02026f01nsfi7ql7dm)
+- **OpenFeedback :** [Faire un retour](https://openfeedback.io/fCb31a335dE2gwSK0i1f/0/994)
 - **LinkedIn :** [Jacqueline Rwanyindo](https://www.linkedin.com/in/jacqueline-rwanyindo/)
 
 
