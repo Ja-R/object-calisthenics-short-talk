@@ -10,11 +10,6 @@
 - Sur la complexité → _**[Dette technique et entropie du logiciel](https://www.youtube.com/watch?v=VKe9EE4MUxk&t=967s)**_ d'Arnaud Lemaire
 - Sur la séparation des responsabilités → _**[Adoptez la clean archigonale](https://www.youtube.com/watch?v=GG9WyeerqFA)**_ de Christophe Breheret-Girardin
 
-### Instructions IA
-
-- Exemple d'utilisation pour guider un assistant IA → Awesome copilot instructions : [https://github.com/github/awesome-copilot/blob/main/instructions/object-calisthenics.instructions.md](https://github.com/github/awesome-copilot/blob/main/instructions/object-calisthenics.instructions.md)
-    - À adapter au contexte du projet et aux objectifs recherchés
-
 ## Les règles et autres concepts
 
 | Rules                                                               | Concepts sous-jacents                                                         |
@@ -29,9 +24,8 @@
 | **8. Use first-class collection.**                                  | Rule 3                                                                        |
 | **9. Don’t use any getters/setters/properties.**                    | Tell Don’t ask, Law of Demeter, SRP, Rich model, DRY                          |
 
-## Feedback & contact
+## Feedback
 
-- **OpenFeedback :** [Faire un retour](https://openfeedback.io/fCb31a335dE2gwSK0i1f/0/994)
-- **LinkedIn :** [Jacqueline Rwanyindo](https://www.linkedin.com/in/jacqueline-rwanyindo/)
+- **OpenFeedback :** [Faire un retour](https://openfeedback.io/5OVOHYUSBNQ5KZM225PT/0/stZXKxCsaSfHgmXCE8HP)
 
 
