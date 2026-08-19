@@ -24,8 +24,8 @@
 | **8. Use first-class collection.**                                  | Rule 3                                                                        |
 | **9. Don’t use any getters/setters/properties.**                    | Tell Don’t ask, Law of Demeter, SRP, Rich model, DRY                          |
 
-## Feedback
+## OpenFeedback
 
-- **OpenFeedback :** [Faire un retour](https://openfeedback.io/5OVOHYUSBNQ5KZM225PT/0/stZXKxCsaSfHgmXCE8HP)
+[Faire un retour](https://openfeedback.io/5OVOHYUSBNQ5KZM225PT/0/stZXKxCsaSfHgmXCE8HP)
 
 
